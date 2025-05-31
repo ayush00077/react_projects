@@ -1,7 +1,6 @@
 
 import './App.css'
-// import  Components  from './Components';
-import Password from './Password'
+
 
  function App()    
 {
@@ -9,8 +8,7 @@ import Password from './Password'
   
   return (
     <>
-    {/* <Components/> */}
-    <Password/>
+  
     </>
     
   )
